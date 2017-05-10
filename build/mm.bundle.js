@@ -37516,16 +37516,16 @@ angular.module('mm.addons.mod_quiz')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "net.moodle.learn",
+    "app_id" : "moodle.justucuman.gov.ar",
     "versioncode" : "3",
     "versionname" : "1.2",
     "cache_expiration_time" : 300000,
-    "default_lang" : "en",
+    "default_lang" : "es",
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "da": "Dansk", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "pt": "Português - Portugal", "ro": "Română", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
-    "demo_sites": {},
-    "siteurl": "https://learn.moodle.net/",
-    "gcmpn": "learn-moodle-1159"
+    "presets" : {"url": "https://moodle.justucuman.gov.ar", "username": "Andrea","password":"1324"},
+    "siteurl": "https://moodle.justucuman.gov.ar",
+    "gcmpn": "694767596569"
 }
 );

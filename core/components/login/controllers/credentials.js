@@ -43,7 +43,7 @@ angular.module('mm.core.login')
             protocol = siteurl.indexOf('http://') === 0 ? 'http://' : undefined;
         return $mmSitesManager.checkSite(siteurl, protocol).then(function(result) {
 
-            $scope.siteChecked = true;
+            $scope.siteChecked = false;
             $scope.siteurl = result.siteurl;
 
             treatSiteConfig(result.config);
