@@ -9148,11 +9148,11 @@ mm-format-text .button.activated a {
   color: #fff; }
 
 .bar-header {
-  background: linear-gradient(to bottom, red, #1B1F27);
+  background: linear-gradient(to bottom, #387ef5, #1B1F27);
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
 
 .bar-content .title, .item-divider h2, .item-divider .item .item-heading, .item .item-divider .item-heading, .item-divider p, a.item h2, a.item .item-heading {
-  color: #ff6500; }
+  color: #fafafa; }
 
 .tabs .tab-item {
   color: #212630; }
