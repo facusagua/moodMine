@@ -72,7 +72,6 @@
     <gap:platform name="ios" />
     <gap:platform name="android" />
     
-    <gap:plugin name="org.apache.cordova.media-capture" />
     <gap:plugin name="org.apache.cordova.console" />
     <gap:plugin name="org.apache.cordova.contacts" />
     <gap:plugin name="org.apache.cordova.device" />
